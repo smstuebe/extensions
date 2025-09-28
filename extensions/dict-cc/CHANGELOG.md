@@ -1,5 +1,9 @@
 # dict.cc Changelog
 
+## [Windows Support] - {PR_MERGE_DATE}
+
+- Enabled support for Windows platform.
+
 ## [v.1.3.0] - 2025-04-09
 
 - Introducing `Translate from Selection` command.

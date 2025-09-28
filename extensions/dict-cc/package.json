@@ -8,6 +8,10 @@
   "contributors": [
     "YourMCGeek"
   ],
+  "platforms": [
+    "macOS",
+    "Windows"
+  ],
   "categories": [
     "Productivity"
   ],
